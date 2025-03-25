@@ -3,9 +3,9 @@
   <head>
     <!-- Metadata -->
     <meta charset="utf-8">
-    <meta name="description" content="My first webpage for user input with php">
-    <meta name="keywords" content="immaculata, icd2o">
-    <meta name="author" content="BrandonBCode">
+    <meta name="description" content="My first webpage with user input">
+    <meta name="keywords" content="immaculata, ics2o">
+    <meta name="author" content="Ms Raffin">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Code for the favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="./favicon/apple-touch-icon.png">
