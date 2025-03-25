@@ -1,4 +1,44 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: BrandonBCode
+* Created on: March 2025
 * This file contains the CSS for index.html
 */
+form {
+    background-color: #d5f2fe;
+    padding: 20px;
+    width: 80%;
+    margin-left: 10%;
+}
+
+h1 {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: #dbfdea;
+    text-align: center;
+    padding: 20px;
+}
+
+h3 {
+    width: 80%;
+    margin-left: 10%;
+}
+
+p {
+    width: 80%;
+    margin-left: 10%;
+}
+
+iframe {
+    width: 80%;
+    margin-top: 30px;
+    margin-bottom: 5%;
+    background-color: #e5d0e7;
+}
+
+#yellow {
+    background-color: #feffaf;
+    padding: 20px;
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 30px;
+}
